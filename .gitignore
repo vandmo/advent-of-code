@@ -1,0 +1,9 @@
+.*.swp
+.junk/
+*~
+.vscode/
+*.pyc
+*.egg-info/
+.venv/
+.__pycache__/
+input.txt
